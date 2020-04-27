@@ -1,0 +1,11 @@
+{
+    "name": "schema31/php-couchdb-watcher",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Antonio Turdo",
+            "email": "aturdo@schema31.it"
+        }
+    ],
+    "require": {}
+}
