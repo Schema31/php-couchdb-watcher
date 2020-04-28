@@ -1,5 +1,6 @@
 {
     "name": "schema31/php-couchdb-watcher",
+	"description": "A simple watcher to attach callbacks to CouchDB documents changes",
     "type": "library",
     "authors": [
         {
@@ -13,5 +14,6 @@
         }
     },		
     "require": {
+		"php": "^7.2"
     }
 }
